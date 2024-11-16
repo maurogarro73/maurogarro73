@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mauromusica73/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-garro-desarrollador/)
 
-### Me llamo Mauro Garro, soy desarrollador web **Fullstack** especializándome en **Backend**.
+### Me llamo Mauro Garro, soy desarrollador web **Fullstack** especializado en **Backend**.
 
 ### Tecnologías 💻
 
